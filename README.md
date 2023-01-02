@@ -7,6 +7,9 @@ This a website for a fine dining website:
 4. pleasant animations to complex gradients
 5. responsiveness design
 
+# website
+https://comforting-brigadeiros-67fa98.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
